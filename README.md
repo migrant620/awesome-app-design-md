@@ -74,7 +74,7 @@ AI music creation. Warm paper canvas over a drifting aura, dashed add-on pills a
 <table>
 <tr>
 <td width="300" align="center" valign="top">
-  <a href="https://luma-ui.edgeone.cool"><img src="assets/luma.png" width="240" alt="Luma UI: browsing a feed, opening an event, creating one"></a>
+  <a href="https://luma-ui.edgeone.cool"><img src="assets/luma.gif" width="240" alt="Luma UI: browsing a feed, opening an event, creating one"></a>
 </td>
 <td valign="top">
 
