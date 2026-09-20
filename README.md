@@ -11,7 +11,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps](https://img.shields.io/badge/apps-2-9F85FF?style=classic)
+![Apps](https://img.shields.io/badge/apps-3-9F85FF?style=classic)
 [![Last update](https://img.shields.io/github/last-commit/migrant620/awesome-app-design-md?label=Last%20update&style=classic)](https://github.com/migrant620/awesome-app-design-md/commits/main)
 
 </div>
@@ -64,6 +64,27 @@ AI music creation. Warm paper canvas over a drifting aura, dashed add-on pills a
 **Flows:** Create (Simple and Advanced) · Search · full player with playback · Library and playlists · Hooks · Profile
 
 [▶ Live demo](https://suno-ui.edgeone.cool) · [Source](https://github.com/migrant620/suno-ui) · [DESIGN.md](design-md/suno/DESIGN.md) · [Design notes](https://github.com/migrant620/suno-ui#design-notes)
+
+</td>
+</tr>
+</table>
+
+### Events & Social
+
+<table>
+<tr>
+<td width="300" align="center" valign="top">
+  <a href="https://luma-ui.edgeone.cool"><img src="assets/luma.png" width="240" alt="Luma UI: browsing a feed, opening an event, creating one"></a>
+</td>
+<td valign="top">
+
+#### [Luma](design-md/luma)
+
+Event discovery and hosting. A pale promo wall that drops into a login sheet, a dated event feed, a discover rail with category chips, a dark hero detail page painted from the cover, and a floating Create Event capsule.
+
+**Flows:** Promo and login · Home feed · Discover · Event detail (hero, host, location, about) · Create form and cover gallery · Empty states
+
+[▶ Live demo](https://luma-ui.edgeone.cool) · [Source](https://github.com/migrant620/luma-ui) · [DESIGN.md](design-md/luma/DESIGN.md)
 
 </td>
 </tr>
