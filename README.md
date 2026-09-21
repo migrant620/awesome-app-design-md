@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" alt="Recreated Tiimo and Suno screens running as interactive prototypes">
+  <img src="assets/hero.png" alt="Recreated Airbnb, Tiimo, Suno and Luma screens running as interactive prototypes">
 </p>
 
 <h1 align="center">Awesome App DESIGN.md</h1>
@@ -11,7 +11,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps](https://img.shields.io/badge/apps-3-9F85FF?style=classic)
+![Apps](https://img.shields.io/badge/apps-4-9F85FF?style=classic)
 [![Last update](https://img.shields.io/github/last-commit/migrant620/awesome-app-design-md?label=Last%20update&style=classic)](https://github.com/migrant620/awesome-app-design-md/commits/main)
 
 </div>
@@ -85,6 +85,27 @@ Event discovery and hosting. A pale promo wall that drops into a login sheet, a 
 **Flows:** Promo and login · Home feed · Discover · Event detail (hero, host, location, about) · Create form and cover gallery · Empty states
 
 [▶ Live demo](https://luma-ui.edgeone.cool) · [Source](https://github.com/migrant620/luma-ui) · [DESIGN.md](design-md/luma/DESIGN.md)
+
+</td>
+</tr>
+</table>
+
+### Travel & Stays
+
+<table>
+<tr>
+<td width="300" align="center" valign="top">
+  <a href="https://airbnb-ui.edgeone.cool"><img src="assets/airbnb.gif" width="240" alt="Airbnb UI: searching destinations, picking dates, browsing a listing and swiping its photos"></a>
+</td>
+<td valign="top">
+
+#### [Airbnb](design-md/airbnb)
+
+Photo-led white cards on a plain page, a near-black ink with a single rose accent, and a search sheet that reads as one sentence in three clauses (Where, When, Who).
+
+**Flows:** Explore (All · Homes · Experiences · Services) · search sheet · results · listing detail · photo viewer · sign-in sheet
+
+[▶ Live demo](https://airbnb-ui.edgeone.cool) · [Source](https://github.com/migrant620/airbnb-ui) · [DESIGN.md](design-md/airbnb/DESIGN.md) · [Design notes](https://github.com/migrant620/airbnb-ui#design-notes)
 
 </td>
 </tr>
