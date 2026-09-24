@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero.png" alt="Recreated Airbnb, Tiimo, Suno and Luma screens running as interactive prototypes">
+  <img src="assets/hero.png" alt="Recreated Airbnb, Tiimo, Suno, Luma and Threads screens running as interactive prototypes">
 </p>
 
 <h1 align="center">Awesome App DESIGN.md</h1>
@@ -11,7 +11,7 @@
 <div align="center">
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-![Apps](https://img.shields.io/badge/apps-4-9F85FF?style=classic)
+![Apps](https://img.shields.io/badge/apps-5-9F85FF?style=classic)
 [![Last update](https://img.shields.io/github/last-commit/migrant620/awesome-app-design-md?label=Last%20update&style=classic)](https://github.com/migrant620/awesome-app-design-md/commits/main)
 
 </div>
@@ -85,6 +85,25 @@ Event discovery and hosting. A pale promo wall that drops into a login sheet, a 
 **Flows:** Promo and login · Home feed · Discover · Event detail (hero, host, location, about) · Create form and cover gallery · Empty states
 
 [▶ Live demo](https://luma-ui.edgeone.cool) · [Source](https://github.com/migrant620/luma-ui) · [DESIGN.md](design-md/luma/DESIGN.md)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="300" align="center" valign="top">
+  <a href="https://threads-ui.edgeone.cool"><img src="assets/threads.gif" width="240" alt="Threads UI: scrolling the feed, opening a post and its reply tree, writing a new thread"></a>
+</td>
+<td valign="top">
+
+#### [Threads](design-md/threads)
+
+A calm, text-first social feed — a near-white canvas, one black ink and a hairline between posts. The Post pill turns itself on as you type, and replies indent into one continuous column of conversation.
+
+**Flows:** Feed and pull-to-refresh · post detail with reply tree · composer (draft, add-to-thread, discard) · search · activity · profile (Threads, Replies, Reposts) · Messages inbox · login
+
+[▶ Live demo](https://threads-ui.edgeone.cool) · [Source](https://github.com/migrant620/threads-ui) · [DESIGN.md](design-md/threads/DESIGN.md) · [Design notes](https://github.com/migrant620/threads-ui#design-notes)
 
 </td>
 </tr>
