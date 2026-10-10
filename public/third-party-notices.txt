@@ -1,0 +1,12 @@
+Third-party notices for Awesome App DESIGN.md
+
+This repository contains no third-party code.
+
+The images in assets/ are recordings of M620's own interactive prototypes. The
+fonts visible in them belong to the prototypes' repositories and are licensed
+there (see the notices in https://github.com/migrant620/suno-ui and
+https://github.com/migrant620/tiimo-ui).
+
+App names such as Suno and Tiimo are trademarks of their respective owners.
+They are used only to identify the interfaces studied; this collection is not
+affiliated with or endorsed by them.
