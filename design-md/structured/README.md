@@ -1,10 +1,10 @@
-<p align="center"><a href="https://structured-ui.edgeone.cool"><img src="../../assets/structured.gif" width="260" alt="Structured UI walkthrough"></a></p>
+<p align="center"><a href="https://migrant620.github.io/structured/"><img src="../../assets/structured.gif" width="260" alt="Structured UI walkthrough"></a></p>
 
 # Structured — DESIGN.md
 
 A grey page holding one white day: a vertical timeline spine with a disc per task, time labels down the left gutter, and a single coral accent reserved for planning and action. Covers the first batch (the day timeline in its first-run, populated, completed and delete-confirmation states, the two-step task editor, the task detail sheet, the inbox tab and the settings tab).
 
-[▶ Live demo](https://structured-ui.edgeone.cool) · [Source code](https://github.com/migrant620/structured-ui) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/structured-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/structured/) · [Source code](https://github.com/migrant620/structured-clone) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/structured-clone#design-notes)
 
 ## At a glance
 

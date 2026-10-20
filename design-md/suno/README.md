@@ -1,10 +1,10 @@
-<p align="center"><a href="https://suno-ui.edgeone.cool"><img src="../../assets/suno.gif" width="260" alt="Suno UI walkthrough"></a></p>
+<p align="center"><a href="https://migrant620.github.io/suno/"><img src="../../assets/suno.gif" width="260" alt="Suno UI walkthrough"></a></p>
 
 # Suno — DESIGN.md
 
 AI music creation. Warm paper canvas over a drifting aura, dashed add-on pills around a single prompt, a pink-to-orange gradient saved for the moment of making, and a player painted from the cover art.
 
-[▶ Live demo](https://suno-ui.edgeone.cool) · [Source code](https://github.com/migrant620/suno-ui) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/suno-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/suno/) · [Source code](https://github.com/migrant620/suno-clone) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/suno-clone#design-notes)
 
 ## At a glance
 

@@ -1,10 +1,10 @@
-<p align="center"><a href="https://airbnb-ui.edgeone.cool"><img src="../../assets/airbnb.gif" width="260" alt="Airbnb UI walkthrough"></a></p>
+<p align="center"><a href="https://migrant620.github.io/airbnb/"><img src="../../assets/airbnb.gif" width="260" alt="Airbnb UI walkthrough"></a></p>
 
 # Airbnb — DESIGN.md
 
 Photo-led white cards on a plain page, a near-black ink with a single rose accent, and a search sheet that reads as one sentence in three clauses. Covers the first batch (Explore, the search sheet, results, listing detail, the photo viewer and the sign-in sheet).
 
-[▶ Live demo](https://airbnb-ui.edgeone.cool) · [Source code](https://github.com/migrant620/airbnb-ui) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/airbnb-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/airbnb/) · [Source code](https://github.com/migrant620/airbnb-clone) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/airbnb-clone#design-notes)
 
 ## At a glance
 

@@ -1,10 +1,10 @@
-<p align="center"><a href="https://luma-ui.edgeone.cool"><img src="../../assets/luma.gif" width="260" alt="Luma UI walkthrough"></a></p>
+<p align="center"><a href="https://migrant620.github.io/luma/"><img src="../../assets/luma.gif" width="260" alt="Luma UI walkthrough"></a></p>
 
 # Luma — DESIGN.md
 
 Event discovery and hosting. A pastel welcome wall of frosted glass cards, a warm pink-to-orange brand gradient, a date-grouped card feed, and a deep indigo detail page.
 
-[▶ Live demo](https://luma-ui.edgeone.cool) · [Source code](https://github.com/migrant620/luma-ui) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/luma-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/luma/) · [Source code](https://github.com/migrant620/luma-clone) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/luma-clone#design-notes)
 
 ## At a glance
 

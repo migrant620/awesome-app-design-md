@@ -42,7 +42,7 @@ Visual day planner for people who find time hard to feel. Soft off-white calm, t
 
 **Flows:** Today plan · task actions · Update-task sheet · focus timer · delete confirmation
 
-[▶ Live demo](https://migrant620.github.io/tiimo/) · [Source](https://github.com/migrant620/tiimo-ui) · [DESIGN.md](design-md/tiimo/DESIGN.md) · [Design notes](https://github.com/migrant620/tiimo-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/tiimo/) · [Source](https://github.com/migrant620/tiimo-clone) · [DESIGN.md](design-md/tiimo/DESIGN.md) · [Design notes](https://github.com/migrant620/tiimo-clone#design-notes)
 
 </td>
 </tr>
@@ -58,7 +58,7 @@ The whole day on one vertical spine. A disc per task, time labels down the left 
 
 **Flows:** Day timeline (first-run · populated · completed · delete confirmation) · two-step task editor · task detail sheet · inbox · settings
 
-[▶ Live demo](https://migrant620.github.io/structured/) · [Source](https://github.com/migrant620/structured-ui) · [DESIGN.md](design-md/structured/DESIGN.md) · [Design notes](https://github.com/migrant620/structured-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/structured/) · [Source](https://github.com/migrant620/structured-clone) · [DESIGN.md](design-md/structured/DESIGN.md) · [Design notes](https://github.com/migrant620/structured-clone#design-notes)
 
 </td>
 </tr>
@@ -79,7 +79,7 @@ AI music creation. Warm paper canvas over a drifting aura, dashed add-on pills a
 
 **Flows:** Create (Simple and Advanced) · Search · full player with playback · Library and playlists · Hooks · Profile
 
-[▶ Live demo](https://migrant620.github.io/suno/) · [Source](https://github.com/migrant620/suno-ui) · [DESIGN.md](design-md/suno/DESIGN.md) · [Design notes](https://github.com/migrant620/suno-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/suno/) · [Source](https://github.com/migrant620/suno-clone) · [DESIGN.md](design-md/suno/DESIGN.md) · [Design notes](https://github.com/migrant620/suno-clone#design-notes)
 
 </td>
 </tr>
@@ -100,7 +100,7 @@ Event discovery and hosting. A pale promo wall that drops into a login sheet, a 
 
 **Flows:** Promo and login · Home feed · Discover · Event detail (hero, host, location, about) · Create form and cover gallery · Empty states
 
-[▶ Live demo](https://migrant620.github.io/luma/) · [Source](https://github.com/migrant620/luma-ui) · [DESIGN.md](design-md/luma/DESIGN.md)
+[▶ Live demo](https://migrant620.github.io/luma/) · [Source](https://github.com/migrant620/luma-clone) · [DESIGN.md](design-md/luma/DESIGN.md)
 
 </td>
 </tr>
@@ -119,7 +119,7 @@ A calm, text-first social feed — a near-white canvas, one black ink and a hair
 
 **Flows:** Feed and pull-to-refresh · post detail with reply tree · composer (draft, add-to-thread, discard) · search · activity · profile (Threads, Replies, Reposts) · Messages inbox · login
 
-[▶ Live demo](https://migrant620.github.io/threads/) · [Source](https://github.com/migrant620/threads-ui) · [DESIGN.md](design-md/threads/DESIGN.md) · [Design notes](https://github.com/migrant620/threads-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/threads/) · [Source](https://github.com/migrant620/threads-clone) · [DESIGN.md](design-md/threads/DESIGN.md) · [Design notes](https://github.com/migrant620/threads-clone#design-notes)
 
 </td>
 </tr>
@@ -140,7 +140,7 @@ Photo-led white cards on a plain page, a near-black ink with a single rose accen
 
 **Flows:** Explore (All · Homes · Experiences · Services) · search sheet · results · listing detail · photo viewer · sign-in sheet
 
-[▶ Live demo](https://migrant620.github.io/airbnb/) · [Source](https://github.com/migrant620/airbnb-ui) · [DESIGN.md](design-md/airbnb/DESIGN.md) · [Design notes](https://github.com/migrant620/airbnb-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/airbnb/) · [Source](https://github.com/migrant620/airbnb-clone) · [DESIGN.md](design-md/airbnb/DESIGN.md) · [Design notes](https://github.com/migrant620/airbnb-clone#design-notes)
 
 </td>
 </tr>

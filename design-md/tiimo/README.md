@@ -1,10 +1,10 @@
-<p align="center"><a href="https://tiimo-ui.edgeone.cool"><img src="../../assets/tiimo.gif" width="260" alt="Tiimo UI walkthrough"></a></p>
+<p align="center"><a href="https://migrant620.github.io/tiimo/"><img src="../../assets/tiimo.gif" width="260" alt="Tiimo UI walkthrough"></a></p>
 
 # Tiimo — DESIGN.md
 
 Visual day planner. Soft off-white calm, time-of-day tints instead of clock times, serif moments, and a lavender arc that shows focus time passing.
 
-[▶ Live demo](https://tiimo-ui.edgeone.cool) · [Source code](https://github.com/migrant620/tiimo-ui) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/tiimo-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/tiimo/) · [Source code](https://github.com/migrant620/tiimo-clone) · [DESIGN.md](DESIGN.md) · [Design notes](https://github.com/migrant620/tiimo-clone#design-notes)
 
 ## At a glance
 
