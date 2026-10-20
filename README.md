@@ -153,7 +153,7 @@ More apps are added regularly. [Request one](#request-an-app) or ⭐ star the re
 | Piece | Where | What it's for |
 |---|---|---|
 | **Live demo** | `migrant620.github.io/<app>` | Tap through the recreated screens on your phone or desktop — no install, no account |
-| **Source code** | `migrant620/<app>-ui` | Expo + React Native + TypeScript, runs on the web; real components, text and state rather than screenshots |
+| **Source code** | `migrant620/<app>-clone` | Expo + React Native + TypeScript, runs on the web; real components, text and state rather than screenshots |
 | **DESIGN.md** | `design-md/<app>/DESIGN.md` | Colours, type scale, spacing, radii, elevation, components and responsive rules in the [DESIGN.md format](https://stitch.withgoogle.com/docs/design-md/overview/) |
 | **Design notes** | the app's README | What makes the interface work — the decisions worth borrowing |
 
