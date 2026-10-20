@@ -32,7 +32,7 @@ Most DESIGN.md collections describe a design. This one lets you **touch it**. Ev
 <table>
 <tr>
 <td width="300" align="center" valign="top">
-  <a href="https://tiimo-ui.edgeone.cool"><img src="assets/tiimo.gif" width="240" alt="Tiimo UI: adding a task, focusing, and ticking it off"></a>
+  <a href="https://migrant620.github.io/tiimo/"><img src="assets/tiimo.gif" width="240" alt="Tiimo UI: adding a task, focusing, and ticking it off"></a>
 </td>
 <td valign="top">
 
@@ -42,13 +42,13 @@ Visual day planner for people who find time hard to feel. Soft off-white calm, t
 
 **Flows:** Today plan · task actions · Update-task sheet · focus timer · delete confirmation
 
-[▶ Live demo](https://tiimo-ui.edgeone.cool) · [Source](https://github.com/migrant620/tiimo-ui) · [DESIGN.md](design-md/tiimo/DESIGN.md) · [Design notes](https://github.com/migrant620/tiimo-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/tiimo/) · [Source](https://github.com/migrant620/tiimo-ui) · [DESIGN.md](design-md/tiimo/DESIGN.md) · [Design notes](https://github.com/migrant620/tiimo-ui#design-notes)
 
 </td>
 </tr>
 <tr>
 <td width="300" align="center" valign="top">
-  <a href="https://structured-ui.edgeone.cool"><img src="assets/structured.gif" width="240" alt="Structured UI: planning a task on the day timeline, opening its detail sheet and completing it"></a>
+  <a href="https://migrant620.github.io/structured/"><img src="assets/structured.gif" width="240" alt="Structured UI: planning a task on the day timeline, opening its detail sheet and completing it"></a>
 </td>
 <td valign="top">
 
@@ -58,7 +58,7 @@ The whole day on one vertical spine. A disc per task, time labels down the left 
 
 **Flows:** Day timeline (first-run · populated · completed · delete confirmation) · two-step task editor · task detail sheet · inbox · settings
 
-[▶ Live demo](https://structured-ui.edgeone.cool) · [Source](https://github.com/migrant620/structured-ui) · [DESIGN.md](design-md/structured/DESIGN.md) · [Design notes](https://github.com/migrant620/structured-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/structured/) · [Source](https://github.com/migrant620/structured-ui) · [DESIGN.md](design-md/structured/DESIGN.md) · [Design notes](https://github.com/migrant620/structured-ui#design-notes)
 
 </td>
 </tr>
@@ -69,7 +69,7 @@ The whole day on one vertical spine. A disc per task, time labels down the left 
 <table>
 <tr>
 <td width="300" align="center" valign="top">
-  <a href="https://suno-ui.edgeone.cool"><img src="assets/suno.gif" width="240" alt="Suno UI: writing a prompt, playing a song, visiting the Library"></a>
+  <a href="https://migrant620.github.io/suno/"><img src="assets/suno.gif" width="240" alt="Suno UI: writing a prompt, playing a song, visiting the Library"></a>
 </td>
 <td valign="top">
 
@@ -79,7 +79,7 @@ AI music creation. Warm paper canvas over a drifting aura, dashed add-on pills a
 
 **Flows:** Create (Simple and Advanced) · Search · full player with playback · Library and playlists · Hooks · Profile
 
-[▶ Live demo](https://suno-ui.edgeone.cool) · [Source](https://github.com/migrant620/suno-ui) · [DESIGN.md](design-md/suno/DESIGN.md) · [Design notes](https://github.com/migrant620/suno-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/suno/) · [Source](https://github.com/migrant620/suno-ui) · [DESIGN.md](design-md/suno/DESIGN.md) · [Design notes](https://github.com/migrant620/suno-ui#design-notes)
 
 </td>
 </tr>
@@ -90,7 +90,7 @@ AI music creation. Warm paper canvas over a drifting aura, dashed add-on pills a
 <table>
 <tr>
 <td width="300" align="center" valign="top">
-  <a href="https://luma-ui.edgeone.cool"><img src="assets/luma.gif" width="240" alt="Luma UI: browsing a feed, opening an event, creating one"></a>
+  <a href="https://migrant620.github.io/luma/"><img src="assets/luma.gif" width="240" alt="Luma UI: browsing a feed, opening an event, creating one"></a>
 </td>
 <td valign="top">
 
@@ -100,7 +100,7 @@ Event discovery and hosting. A pale promo wall that drops into a login sheet, a 
 
 **Flows:** Promo and login · Home feed · Discover · Event detail (hero, host, location, about) · Create form and cover gallery · Empty states
 
-[▶ Live demo](https://luma-ui.edgeone.cool) · [Source](https://github.com/migrant620/luma-ui) · [DESIGN.md](design-md/luma/DESIGN.md)
+[▶ Live demo](https://migrant620.github.io/luma/) · [Source](https://github.com/migrant620/luma-ui) · [DESIGN.md](design-md/luma/DESIGN.md)
 
 </td>
 </tr>
@@ -109,7 +109,7 @@ Event discovery and hosting. A pale promo wall that drops into a login sheet, a 
 <table>
 <tr>
 <td width="300" align="center" valign="top">
-  <a href="https://threads-ui.edgeone.cool"><img src="assets/threads.gif" width="240" alt="Threads UI: scrolling the feed, opening a post and its reply tree, writing a new thread"></a>
+  <a href="https://migrant620.github.io/threads/"><img src="assets/threads.gif" width="240" alt="Threads UI: scrolling the feed, opening a post and its reply tree, writing a new thread"></a>
 </td>
 <td valign="top">
 
@@ -119,7 +119,7 @@ A calm, text-first social feed — a near-white canvas, one black ink and a hair
 
 **Flows:** Feed and pull-to-refresh · post detail with reply tree · composer (draft, add-to-thread, discard) · search · activity · profile (Threads, Replies, Reposts) · Messages inbox · login
 
-[▶ Live demo](https://threads-ui.edgeone.cool) · [Source](https://github.com/migrant620/threads-ui) · [DESIGN.md](design-md/threads/DESIGN.md) · [Design notes](https://github.com/migrant620/threads-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/threads/) · [Source](https://github.com/migrant620/threads-ui) · [DESIGN.md](design-md/threads/DESIGN.md) · [Design notes](https://github.com/migrant620/threads-ui#design-notes)
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ A calm, text-first social feed — a near-white canvas, one black ink and a hair
 <table>
 <tr>
 <td width="300" align="center" valign="top">
-  <a href="https://airbnb-ui.edgeone.cool"><img src="assets/airbnb.gif" width="240" alt="Airbnb UI: searching destinations, picking dates, browsing a listing and swiping its photos"></a>
+  <a href="https://migrant620.github.io/airbnb/"><img src="assets/airbnb.gif" width="240" alt="Airbnb UI: searching destinations, picking dates, browsing a listing and swiping its photos"></a>
 </td>
 <td valign="top">
 
@@ -140,7 +140,7 @@ Photo-led white cards on a plain page, a near-black ink with a single rose accen
 
 **Flows:** Explore (All · Homes · Experiences · Services) · search sheet · results · listing detail · photo viewer · sign-in sheet
 
-[▶ Live demo](https://airbnb-ui.edgeone.cool) · [Source](https://github.com/migrant620/airbnb-ui) · [DESIGN.md](design-md/airbnb/DESIGN.md) · [Design notes](https://github.com/migrant620/airbnb-ui#design-notes)
+[▶ Live demo](https://migrant620.github.io/airbnb/) · [Source](https://github.com/migrant620/airbnb-ui) · [DESIGN.md](design-md/airbnb/DESIGN.md) · [Design notes](https://github.com/migrant620/airbnb-ui#design-notes)
 
 </td>
 </tr>
@@ -152,7 +152,7 @@ More apps are added regularly. [Request one](#request-an-app) or ⭐ star the re
 
 | Piece | Where | What it's for |
 |---|---|---|
-| **Live demo** | `<app>-ui.edgeone.cool` | Tap through the recreated screens on your phone or desktop — no install, no account |
+| **Live demo** | `migrant620.github.io/<app>` | Tap through the recreated screens on your phone or desktop — no install, no account |
 | **Source code** | `migrant620/<app>-ui` | Expo + React Native + TypeScript, runs on the web; real components, text and state rather than screenshots |
 | **DESIGN.md** | `design-md/<app>/DESIGN.md` | Colours, type scale, spacing, radii, elevation, components and responsive rules in the [DESIGN.md format](https://stitch.withgoogle.com/docs/design-md/overview/) |
 | **Design notes** | the app's README | What makes the interface work — the decisions worth borrowing |
