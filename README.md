@@ -177,6 +177,6 @@ Corrections are welcome: if a colour, size or description looks off, [open an is
 
 ## License
 
-The DESIGN.md files, notes and images in this repository are M620's own work, available for **noncommercial study and research** under the [M620 Study and Research License](LICENSE); each app's source repository carries its own copy of the license and its third-party notices.
+The DESIGN.md files, notes and images in this repository are M620's own work, released under the [MIT License](LICENSE); each app's source repository carries its own copy of the license and its third-party notices. Product names and trademarks belong to their owners.
 
 Every entry is an independent recreation for study. App names and visual identities belong to their owners; this collection is not affiliated with or endorsed by them.
